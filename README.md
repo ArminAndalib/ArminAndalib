@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=ARMIN+ANDALIB;CYBERSECURITY+%7C+RED+TEAM;WEB+SECURITY+%7C+SECURITY+RESEARCH" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=ARMIN+ANDALIB;CYBERSECURITY;RED+TEAM;WEB+SECURITY;SECURITY+RESEARCH" alt="Typing animation">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=header" width="100%" alt="Animated header">
 
-### 🔴 Red Team • 🌐 Web Security • 🐍 Security Engineering
+### 🔴 Red Team &nbsp;•&nbsp; 🌐 Web Security &nbsp;•&nbsp; 🐍 Security Engineering
 
 **Learn • Build • Break • Defend**
 
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-ArminAndalib-181717?style=for-the-badge&logo=github)](https://github.com/ArminAndalib)
+[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](#-focus)
+[![Red Team](https://img.shields.io/badge/Focus-Red%20Team-111827?style=for-the-badge&logo=kalilinux&logoColor=557C94)](#-focus)
+[![Web Security](https://img.shields.io/badge/Focus-Web%20Security-111827?style=for-the-badge&logo=owasp&logoColor=FFFFFF)](#-focus)
 
 </div>
 
@@ -16,31 +21,11 @@
 
 ## 👨‍💻 Whoami
 
-I'm **Armin Andalib**, a Computer Engineering student focused on **Cybersecurity**, with a strong interest in **Red Team operations and Web Application Security**.
-
-I learn by building security labs, researching vulnerabilities, automating security workflows, and documenting what I discover.
-
-> **Security is not a collection of tools. It's a way of thinking.**
-
----
-
-## ⚔️ Focus
-
 ```text
-RED TEAM
-│
-├── Web Application Security
-├── API Security
-├── Reconnaissance
-├── Authentication & Authorization
-├── Vulnerability Assessment
-├── CTF
-└── Security Research
-
-SECURITY ENGINEERING
-│
-├── Python Automation
-├── Linux Security
-├── Network Security
-├── SQL / PostgreSQL
-└── Secure Development
+Name        : Armin Andalib
+Field       : Computer Engineering
+Focus       : Cybersecurity
+Speciality  : Red Team / Web Security
+Environment : Linux / Fedora
+Language    : Python / Bash / SQL
+Mindset     : Learn → Build → Break → Defend
