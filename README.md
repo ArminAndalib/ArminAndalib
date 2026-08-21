@@ -25,18 +25,13 @@
 
 ```python
 class ArminAndalib:
-    role        = "Junior Cybersecurity Engineer"
+    role        = "Will Be Cybersecurity Engineer & Now Computer Science Student"
     location    = "Mashhad, Iran"
     focus       = ["Web Security", "Penetration Testing", "Network Security",
-                   "Vulnerability Analysis", "CTF Competitions", "Red Team Ops"]
-    learning    = "Reverse Engineering, Exploit Development, Blue Team Automation"
-    interests   = "Offensive Security, Security Research, Secure Development"
-    current     = "Building security tools and CTF write-ups"
-    os          = "Fedora Linux"
-    superpower  = "I find vulnerabilities and understand how systems break."
+                   "Vulnerability Analysis", "CTF Competitions", "Red Team "]
 ```
 
-> I learn by doing. Every lab I build, every vulnerability I find, and every CTF I compete in gets me closer to mastering cybersecurity.
+> Do Something To Make The World A Better Place To Live.
 
 ---
 
@@ -44,9 +39,9 @@ class ArminAndalib:
 
 I'm a **junior cybersecurity learner** passionate about offensive and defensive security. I build practical security skills through hands-on labs, CTF competitions, and real-world vulnerability research.
 
-- 🔭 **Currently working on:** Security automation tools, CTF write-ups, and web vulnerability labs
-- 🌱 **Learning:** Reverse engineering, exploit development, SIEM systems, and blue-team automation
-- 💬 **Ask me about:** Web pentesting, Burp Suite, vulnerability assessment, secure coding, CTFs
+- 🔭 **Currently working on:** Security automation tools, and web vulnerability labs
+- 🌱 **Learning:** Learning....
+- 💬 **Ask me about:** Web pentesting, Burp Suite, vulnerability assessment, secure coding, CTF
 - 📫 **Reach me:** [Armynndlyb5@gmail.com](mailto:Armynndlyb5@gmail.com)
 - 📍 **Based in:** Mashhad, Iran
 - 🖥️ **Primary OS:** Fedora Linux
@@ -81,113 +76,6 @@ I'm a **junior cybersecurity learner** passionate about offensive and defensive 
 ![Nmap](https://img.shields.io/badge/Nmap-ff0000?style=flat-square&labelColor=000000)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&labelColor=000000)
 ![Metasploit](https://img.shields.io/badge/Metasploit-ff0000?style=flat-square&labelColor=000000)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549C?style=flat-square&labelColor=000000)
-
----
-
-## 🧪 Security Labs & Projects
-
-### **Web Security Labs**
-- 🔴 **SQL Injection Playgrounds** — Hands-on exploitation and mitigation
-- 🔴 **OWASP Top 10 Labs** — Vulnerabilities + fixes for each category
-- 🔴 **Burp Suite Exercises** — Request manipulation, scanning, exploitation
-- 🔴 **XSS & CSRF Labs** — Real-world scenarios and defense mechanisms
-
-### **Network & System Security**
-- 🛡️ **Linux Hardening Configs** — SELinux, firewall rules, user management
-- 🛡️ **Network Reconnaissance Lab** — Nmap scanning, fingerprinting, enumeration
-- 🛡️ **Privilege Escalation Scenarios** — Kernel exploits, misconfigurations, SUID binaries
-
-### **Automation & Scripting**
-- 🤖 **Python Security Scripts** — Scanners, payload generators, log parsers
-- 🤖 **Bash Automation Tools** — System monitoring, vulnerability checks, batch testing
-- 🤖 **CTF Automation** — Flag finders, cipher solvers, automation helpers
-
-### **CTF & Capture The Flag**
-- 🚩 **CTF Write-ups** — Step-by-step walkthroughs of competition challenges
-- 🚩 **Exploit Collections** — Curated collection of working exploits and techniques
-- 🚩 **Writeup Repository** — Check my repositories for competition documentation
-
----
-
-## 📂 Featured Projects
-
-| Project | Type | Focus | Status |
-|---------|------|-------|--------|
-| **Security Scripts** | Automation | Python/Bash security tools | 🟢 Active |
-| **CTF Writeups** | Learning | Documented exploitation chains | 🟢 Active |
-| **Web Vuln Labs** | Research | OWASP Top 10 demonstrations | 🟢 In Progress |
-| **Network Scanner** | Tool | Nmap automation & reporting | 🟢 In Development |
-
-*Check my repositories for full project details and source code.*
-
----
-
-## 🏆 Competitive Experience
-
-| Year | Challenge | Category | Status |
-|:---|:---|:---|:---:|
-| 2024–2025 | CTF Competitions | Various Platforms | 🟢 Ongoing |
-| 2024 | HackTheBox Challenges | Web Security | 🟢 Active |
-| 2024 | TryHackMe Labs | Full Stack Security | 🟢 Active |
-| 2024 | OWASP WebGoat | Web Fundamentals | ✅ Completed |
-
-🎯 **Focus:** Web vulnerabilities, reverse engineering, privilege escalation, and system exploitation.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArminAndalib&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminAndalib&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff)
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArminAndalib&theme=dark&hide_border=true&background=000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📚 Learning Resources & Certifications
-
-```
-[🟡] eJPT (eLearnSecurity Junior Penetration Tester) — In Progress
-[🟡] Security+ (CompTIA) — Planned
-[🟡] Certified Ethical Hacker (CEH) — Future Goal
-[🟢] HackTheBox Active User — Continuous Learning
-[🟢] TryHackMe Practitioner — Continuous Learning
-[🟢] OWASP Training — Active
-```
-
----
-
-## 🎯 Goals & Roadmap
-
-**Short-term (Next 6 months):**
-- ✅ Complete eJPT certification
-- ✅ Build 5+ advanced security projects
-- ✅ Publish CTF writeups and exploits
-- ✅ Contribute to open-source security projects
-
-**Long-term (1-2 years):**
-- 🎯 Achieve CEH or OSCP certification
-- 🎯 Land a junior penetration tester role
-- 🎯 Contribute to bug bounty programs
-- 🎯 Develop custom security tools
-
----
-
-## 🔐 Security Mindset
-
-```
-"Security is not a destination, it's a journey.
-Every vulnerability teaches you something new.
-Every exploit you understand makes you a better defender."
-```
 
 ---
 
