@@ -1,13 +1,12 @@
 <!-- ANIMATED HERO / TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=32&duration=3000&pause=1000&color=FF0000&center=true&width=600&lines=ARMIN+ANDALIB;CYBERSECURITY+LEARNER;COMPUTER+ENGINEERING+STUDENT;WEB+SECURITY;LINUX+%26+BASH;PYTHON;SECURITY+AUTOMATION)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=32&duration=3000&pause=1000&color=FF0000&center=true&width=600&lines=ARMIN+ANDALIB;CYBERSECURITY+LEARNER;COMPUTER+SECURITY)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- TERMINAL WHOAMI SECTION -->
 <div align="center">
 
 ## $ whoami
@@ -36,114 +35,58 @@ $ cat mission.txt
 
 ---
 
-## 📋 About Me
+# Hi, I’m Armin 👋
 
-I am a **junior cybersecurity learner** focused on building practical security skills through hands-on labs and personal projects. I am currently studying:
+<p align="center">
+  <img alt="Black & Red banner" src="https://img.shields.io/badge/Armin%20Andalib_-_Cyber%20Security-black?style=for-the-badge&logo=github&color=ff0000&labelColor=000000" />
+</p>
 
-- Web application security
-- SQL and SQL injection vulnerabilities
-- Linux and Bash scripting
-- Networking fundamentals
-- Python security automation
-- Burp Suite tools and techniques
-- Vulnerability research basics
-- CTF and wargame challenges
-
-**My approach:** I learn by doing. Every concept gets tested in a lab environment. No fake expertise—just honest, practical learning.
+<p align="center">
+  <em style="color:#ff0000">Cybersecurity • Offensive & Defensive • Research</em>
+</p>
 
 ---
 
-## 🎯 Currently Learning
+## 📋 About Me
 
-```
-[01] SQL Fundamentals & SQL Injection
-[02] Web Application Security
-[03] Burp Suite & Security Testing
-[04] Linux & Bash Scripting
-[05] Networking & Protocols
-[06] Python Security Automation
-[07] Vulnerability Research Basics
-[08] CTF Challenges & Wargames
-[09] Security Automation Workflows
-```
+I am a **junior cybersecurity learner** building practical security skills through hands-on labs and personal projects. I focus on web security, vulnerability research, and secure development practices.
+
+- 🔭 I’m currently working on: security tooling and CTF write-ups
+- 🌱 I’m learning: reverse engineering, exploit development, blue-team automation
+- 💬 Ask me about: pentesting, web security, malware analysis, secure dev workflows
+- 📫 How to reach me: see Connect section below
 
 ---
 
 ## 🔧 Tech Stack
 
-**Learning & Using:**
-
-| Category | Tools |
-|----------|-------|
-| **OS & Shell** | Linux (Fedora), Bash, Terminal |
-| **Programming** | Python, JavaScript, HTML, CSS |
-| **Security Tools** | Burp Suite, PostgreSQL, MySQL |
-| **Automation** | Python scripts, Bash scripts, Git |
-| **Containers** | Podman |
-| **Frameworks** | Flask |
-| **Version Control** | Git, GitHub |
-
-*Note: I'm actively learning all these technologies. Mastery takes time and practice.*
+- Offensive: web app pentesting, network scanning, Burp Suite
+- Defensive: SIEM, logging, incident response, hardening
+- Languages & Tools: Python, Bash, PowerShell, Docker, Git
+- Other: CTFs, vulnerability research, threat modeling
 
 ---
 
 ## 🧪 Cybersecurity Labs
 
-I build practical security labs to understand vulnerabilities in a safe, controlled environment:
+I build controlled labs to practice and demonstrate vulnerabilities:
 
-- **SQL Injection Labs** – Testing SQL injection attacks and defenses
-- **Web Security Labs** – Exploring OWASP top vulnerabilities
-- **Burp Suite Exercises** – Practical web app security testing
-- **Linux Security Labs** – File permissions, user management, hardening
-- **Networking Labs** – Protocol analysis, network segmentation
-- **Python Security Tools** – Building automation and analysis scripts
-- **PostgreSQL Security** – Database security best practices
-- **CTF Challenges** – Capture The Flag practice
+- SQL injection playgrounds
+- Web vulnerability labs (OWASP Top 10)
+- Burp Suite exercises
+- Linux hardening configurations
+- Python security automation scripts
+- CTF write-ups and reproductions
 
 ---
 
-## 📁 Projects
+## 📁 Projects (examples)
 
-### Cybersecurity Labs
-- SQL injection practice environment (coming soon)
-- Web vulnerability lab (coming soon)
-- Linux security hardening (coming soon)
+- 🔴 red-team-tools — scripts and utilities for internal testing (link to repo)
+- 🛡️ blue-team-automation — detection rules and playbooks (link to repo)
+- 🧩 CTF write-ups — collection of write-ups and reproducible exploits
 
-### Python Security Tools
-- Basic security automation scripts (coming soon)
-- Network analysis tools (coming soon)
-
-### Learning Repositories
-- Cybersecurity fundamentals (coming soon)
-- CTF writeups and solutions (coming soon)
-
----
-
-## 🗺️ Learning Roadmap
-
-```
-✅ Cybersecurity Fundamentals
-   ↓
-✅ Linux Basics & Bash
-   ↓
-🔄 Networking & Protocols (IN PROGRESS)
-   ↓
-🔄 Python Programming (IN PROGRESS)
-   ↓
-⏳ SQL & Databases
-   ↓
-⏳ Web Security (OWASP)
-   ↓
-⏳ Burp Suite Deep Dive
-   ↓
-⏳ Web Vulnerabilities (Advanced)
-   ↓
-⏳ Capture The Flag (CTF)
-   ↓
-⏳ Security Automation
-   ↓
-⏳ Advanced Security Topics
-```
+(Replace the above with links to your projects or repos.)
 
 ---
 
@@ -151,52 +94,29 @@ I build practical security labs to understand vulnerabilities in a safe, control
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArminAndalib&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArminAndalib&show_icons=true&theme=dark&hide_title=true&icon_color=ff0000&bg_color=000000&text_color=ffffff)
 
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminAndalib&layout=compact&theme=dark&bg_color=0d1117&title_color=ff0000&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArminAndalib&layout=compact&theme=dark&bg_color=000000&text_color=ffffff)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ArminAndalib/ArminAndalib/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ArminAndalib/ArminAndalib/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/ArminAndalib/ArminAndalib/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
----
-
-## 🎓 Learning Philosophy
-
-I believe in:
-
-- **Hands-on Learning** – Labs and projects over theory alone
-- **Honest Progress** – No fake expertise or exaggerated claims
-- **Continuous Improvement** – Every mistake is a learning opportunity
-- **Documentation** – Writing about what I learn reinforces understanding
-- **Ethical Practice** – Security skills are for defense and protection
+## Connect
+<p align="center">
+  <a href="https://t.me/ArminAndalib"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@ArminAndalib-ff0000?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/ArminAndalib"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ArminAndalib-ff0000?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://x.com/ArminAndalib"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-@ArminAndalib-ff0000?style=for-the-badge&labelColor=000000" /></a>
+</p>
 
 ---
 
-## 📞 Contact & Connect
-
-- **GitHub** – You're already here! 👋
-- **Email** – Coming soon
-- **LinkedIn** – Coming soon
+## How to use this README
+- If any links or project names are incorrect, tell me the correct usernames or repo links and I’ll update the file.
+- Want a banner image or a custom SVG instead of the badge? I can design one.
 
 ---
 
-<div align="center">
-
-**Actively learning. Honestly growing. Building real security skills.**
-
-*Last updated: 2026*
-
-</div>
+<p align="center">
+  <sub>Designed with ❤ in black & red — focused on cybersecurity.</sub>
+</p>
