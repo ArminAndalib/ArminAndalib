@@ -24,13 +24,11 @@
 ```text
 ┌─────────────────────────────────────────────┐
 │                                             │
-│  NAME       : ARMIN ANDALIB                │
-│  FIELD      : COMPUTER ENGINEERING         │
-│  DOMAIN     : CYBERSECURITY                │
-│  SPECIALITY : RED TEAM / WEB SECURITY      │
-│  OS         : LINUX / FEDORA               │
-│  LANGUAGE   : PYTHON / BASH / SQL          │
+│  NAME       : ARMIN ANDALIB                 │
+│  FIELD      : CYBER SECURITY ENGINEERING    │
+│  DOMAIN     : CYBERSECURITY                 │
+│  SPECIALITY : RED TEAM / WEB SECURITY       │
 │                                             │
-│  STATUS     : ALWAYS LEARNING              │
+│  STATUS     : ALWAYS LEARNING               │
 │                                             │
 └─────────────────────────────────────────────┘
