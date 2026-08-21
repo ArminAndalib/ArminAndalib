@@ -1,0 +1,72 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+      
+      .terminal-bg { fill: #050505; }
+      .terminal-border { stroke: #FF0000; stroke-width: 2; fill: none; }
+      .terminal-header { fill: #0D0000; }
+      .terminal-button { r: 6; }
+      .button-close { fill: #FF3333; }
+      .button-min { fill: #FFD700; }
+      .button-max { fill: #66FF66; }
+      .terminal-text { font-family: 'Roboto Mono', monospace; font-size: 14px; fill: #66FF66; }
+      .terminal-label { font-family: 'Roboto Mono', monospace; font-size: 12px; fill: #CCCCCC; }
+      .terminal-prompt { font-family: 'Roboto Mono', monospace; font-size: 14px; fill: #FF3333; font-weight: bold; }
+      .cursor { fill: #FF0000; animation: blink 1s infinite; }
+      
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+  
+  <!-- Terminal Window Background -->
+  <rect class="terminal-bg" width="800" height="400" rx="12"/>
+  
+  <!-- Terminal Border -->
+  <rect class="terminal-border" x="8" y="8" width="784" height="384" rx="10"/>
+  
+  <!-- Terminal Header Bar -->
+  <rect class="terminal-header" x="8" y="8" width="784" height="35" rx="10"/>
+  
+  <!-- Window Buttons -->
+  <circle class="terminal-button button-close" cx="30" cy="25.5"/>
+  <circle class="terminal-button button-min" cx="55" cy="25.5"/>
+  <circle class="terminal-button button-max" cx="80" cy="25.5"/>
+  
+  <!-- Terminal Title -->
+  <text x="400" y="28" class="terminal-label" text-anchor="middle">armin@cybersecurity ~ terminal</text>
+  
+  <!-- Terminal Content Start -->
+  <text x="20" y="70" class="terminal-prompt">$</text>
+  <text x="40" y="70" class="terminal-text">whoami</text>
+  
+  <!-- WHOAMI Output -->
+  <text x="20" y="100" class="terminal-text">NAME</text>
+  <text x="100" y="100" class="terminal-label">: ARMIN ANDALIB</text>
+  
+  <text x="20" y="130" class="terminal-text">FIELD</text>
+  <text x="100" y="130" class="terminal-label">: CYBER SECURITY ENGINEERING</text>
+  
+  <text x="20" y="160" class="terminal-text">DOMAIN</text>
+  <text x="100" y="160" class="terminal-label">: CYBERSECURITY</text>
+  
+  <text x="20" y="190" class="terminal-text">SPECIALITY</text>
+  <text x="100" y="190" class="terminal-label">: RED TEAM / WEB SECURITY</text>
+  
+  <text x="20" y="220" class="terminal-text">STATUS</text>
+  <text x="100" y="220" class="terminal-label">: ALWAYS LEARNING</text>
+  
+  <!-- Second Command -->
+  <text x="20" y="260" class="terminal-prompt">$</text>
+  <text x="40" y="260" class="terminal-text">research --build --test --repeat</text>
+  
+  <!-- Blinking Cursor -->
+  <rect class="cursor" x="430" y="252" width="10" height="18"/>
+  
+  <!-- Bottom Status Line -->
+  <line x1="8" y1="370" x2="792" y2="370" stroke="#FF0000" stroke-width="1" opacity="0.5"/>
+  <text x="20" y="388" class="terminal-label" font-size="10">cybersecurity • always learning • research driven</text>
+</svg>
