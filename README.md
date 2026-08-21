@@ -18,6 +18,7 @@
 │  LEVEL      : JUNIOR / BEGINNER    │
 │  FIELD      : CYBERSECURITY        │
 │  FOCUS      : WEB SECURITY         │
+│  LOCATION   : Iran, Mashhad        │
 │  OS         : FEDORA LINUX         │
 │  LANGUAGE   : PYTHON               │
 │  STATUS     : ACTIVELY LEARNING    │
@@ -54,7 +55,9 @@ I am a **junior cybersecurity learner** building practical security skills throu
 - 🔭 I’m currently working on: security tooling and CTF write-ups
 - 🌱 I’m learning: reverse engineering, exploit development, blue-team automation
 - 💬 Ask me about: pentesting, web security, malware analysis, secure dev workflows
-- 📫 How to reach me: see Connect section below
+- 📫 How to reach me: Armynndlyb5@gmail.com
+- 📍 Location: Iran, Mashhad
+- ⏰ Local time (as provided): 22:38 (UTC -12:00)
 
 ---
 
@@ -104,8 +107,8 @@ I build controlled labs to practice and demonstrate vulnerabilities:
 
 ## Connect
 <p align="center">
-  <a href="https://t.me/ArminAndalib"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@ArminAndalib-ff0000?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://www.linkedin.com/in/ArminAndalib"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ArminAndalib-ff0000?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://t.me/py_1st"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@py_1st-ff0000?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/armin-it-a1ba10343"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Armin%20Andalib-ff0000?style=for-the-badge&labelColor=000000" /></a>
   <a href="https://x.com/ArminAndalib"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-@ArminAndalib-ff0000?style=for-the-badge&labelColor=000000" /></a>
 </p>
 
